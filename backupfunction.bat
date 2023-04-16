@@ -1,0 +1,1 @@
+mysqldump -h localhost -u root -p ordering_system > C:/Users/PRINCESS/Desktop/mybackup.sql
